@@ -18,3 +18,15 @@ Program ini menerima input dari pengguna untuk jumlah tes dan koordinat baris da
 
 Silakan lihat kode untuk penjelasan lebih lanjut mengenai alur logika dan implementasi.
 
+### Contoh Input-Output
+
+Input:
+3
+2 3
+1 1
+4 2
+
+Output: 
+8
+1
+15
