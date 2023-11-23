@@ -20,13 +20,13 @@ Silakan lihat kode untuk penjelasan lebih lanjut mengenai alur logika dan implem
 
 ### Contoh Input-Output
 
-Input:
-3
-2 3
-1 1
-4 2
+Input: <br>
+`3` <br>
+`2 3` <br>
+`1 1` <br>
+`4 2` <br>
 
-Output: 
-8
-1
-15
+Output: <br> 
+`8` <br>
+`1` <br>
+`15` <br>
