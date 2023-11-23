@@ -1,4 +1,4 @@
-# Penemuan Angka dalam Spiral
+# Menemukan angka yang tepat pada baris y dan kolom x.
 
 Kode ini adalah solusi untuk menemukan angka pada spiral berdasarkan koordinat baris dan kolom tertentu.
 
